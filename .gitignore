@@ -1,0 +1,9 @@
+# dataset
+F_MNIST_data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# virtual env
+yolo_env/
