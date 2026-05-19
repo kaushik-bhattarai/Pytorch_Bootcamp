@@ -1,5 +1,6 @@
 # dataset
 F_MNIST_data/
+10_Monkey_Species
 
 # Python cache
 __pycache__/
