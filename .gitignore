@@ -8,3 +8,6 @@ __pycache__/
 
 # virtual env
 yolo_env/
+
+#model
+best.pt
