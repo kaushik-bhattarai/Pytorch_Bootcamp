@@ -11,3 +11,6 @@ yolo_env/
 
 #model
 best.pt
+
+# assets folder
+assets/
