@@ -174,7 +174,6 @@ def train_and_validate(model, loss_criterion, optimizer, epochs=25):
     return model, history, best_epoch
 
 
-# ── Only runs when this file is executed directly, NOT when imported ──────────
 if __name__ == "__main__":
     print(f"Number of classes:            {num_classes}")
     print(f"Class mapping:                {idx_to_class}")
