@@ -11,6 +11,24 @@ yolo_env/
 
 #model
 best.pt
+best_model.pt
+best_modelFT.pt
+yolo11l-cls.pt
+yolo11l-obb.pt
+yolo11l-pose.pt
+yolo11l-seg.pt
+yolo11l.pt
 
 # assets folder
 assets/
+inference_data/
+imagenet_classes.txt
+10_Monkey_Species_history.pt
+boat.jpg
+cat-dog.jpg
+football.jpg
+kitchen.jpg
+monitor.jpg
+tiger.jpg
+zebra.jpg
+
